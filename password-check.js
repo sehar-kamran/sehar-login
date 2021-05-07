@@ -10,8 +10,8 @@ function checkforblank() {
         if (document.getElementById('password').value == 'kamran'){
             window.setTimeout(function(){
 
-// Correct password redirect. How did you find me?
-window.location.href = "https://sehar-kamran.github.io/sehar-login/loading.html";
+// How did you find me?
+window.location.href = "https://sehar-kamran.github.io/sehar-login/signin.html";
 
 }, 1);
         } else return alert('Incorrect username or password.')
