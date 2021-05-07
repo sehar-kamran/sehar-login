@@ -11,7 +11,7 @@ function checkforblank() {
             window.setTimeout(function(){
 
 // Correct password redirect. How did you find me?
-window.location.href = "https://sehar-login.danbotdev.repl.co/loading.html";
+window.location.href = "https://sehar-kamran.github.io/sehar-login/loading.html";
 
 }, 1);
         } else return alert('Incorrect username or password.')
