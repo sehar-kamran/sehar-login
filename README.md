@@ -1,3 +1,3 @@
-# sehar-login
+# sehar-login website
 
-login to sehar kamran site
+login to sehar kamran website useing a username or password
